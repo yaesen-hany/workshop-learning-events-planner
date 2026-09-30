@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Yasin",
+        "email": "yasin@admin.com",
+        "password": "123456",
+        "gender": "M",
+        "phone": "01123456789",
+        "age": 19,
+        "national_id": "30404112210173",
+        "governorate": "Alexandria",
+        "role": "admin"
+    },
+    {
+        "id": 2,
+        "name": "Khaled",
+        "email": "khaled@gmail.com",
+        "password": "789789",
+        "gender": "M",
+        "phone": "01023456789",
+        "age": 21,
+        "governorate": "Giza",
+        "national_id": "30404112255173",
+        "role": "user"
+    },
+    {
+        "id": 3,
+        "name": "Mariam",
+        "email": "mariam@gmail.com",
+        "password": "987654",
+        "gender": "F",
+        "phone": "01223456789",
+        "age": 20,
+        "national_id": "30504112200173",
+        "governorate": "Behira",
+        "role": "user"
+    },
+    {
+        "id": 4,
+        "name": "Nour",
+        "email": "nour@gmail.com",
+        "password": "123123",
+        "gender": "F",
+        "phone": "01523456789",
+        "age": 18,
+        "national_id": "30403312200173",
+        "governorate": "Cairo",
+        "role": "user"
+    },
+    {
+        "id": 5,
+        "name": "mai",
+        "email": "mai@gmail.com",
+        "password": "0123456",
+        "gender": "F",
+        "phone": "01234567891",
+        "age": 18,
+        "national_id": "30404112200973",
+        "governorate": "fayoum",
+        "role": "user"
+    },
+    {
+        "id": 6,
+        "name": "ahmed",
+        "email": "ahmed@gmail.com",
+        "password": "0123456",
+        "gender": "M",
+        "phone": "01234567899",
+        "age": 23,
+        "national_id": "30404882200173",
+        "governorate": "cairo",
+        "role": "user"
+    },
+    {
+        "id": 7,
+        "name": "mai",
+        "email": "mai@gmail.com",
+        "password": "0123456987",
+        "gender": "F",
+        "phone": "01123456789",
+        "age": 19,
+        "national_id": "30404112200173",
+        "governorate": "cairo",
+        "role": "user"
+    },
+    {
+        "id": 8,
+        "name": "mohahmed",
+        "email": "mo@gmail.com",
+        "password": "987654",
+        "gender": "M",
+        "phone": "01123456789",
+        "age": 22,
+        "national_id": "30505112200175",
+        "governorate": "",
+        "role": "user"
+    },
+    {
+        "id": 9,
+        "name": "shaben",
+        "email": "shaben@gmail.com",
+        "password": "987321",
+        "gender": "M",
+        "phone": "01123456789",
+        "age": 21,
+        "national_id": "30405060705873",
+        "governorate": "Giza",
+        "role": "user"
+    },
+    {
+        "id": 10,
+        "name": "saleh",
+        "email": "saleh@gmail.com",
+        "password": "852963",
+        "gender": "M",
+        "phone": "01223456789",
+        "age": 25,
+        "national_id": "30104312300852",
+        "governorate": "",
+        "role": "user"
+    }
+]

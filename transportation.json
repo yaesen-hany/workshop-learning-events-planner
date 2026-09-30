@@ -1,0 +1,50 @@
+{
+    "Alexandria": {
+        "Cairo": 120,
+        "Alexandria": 0,
+        "Giza": 130,
+        "Fayoum": 150,
+        "Behira": 60,
+        "Suez": 180
+    },
+    "Giza": {
+        "Cairo": 40,
+        "Alexandria": 130,
+        "Giza": 0,
+        "Fayoum": 70,
+        "Behira": 110,
+        "Suez": 160
+    },
+    "Behira": {
+        "Cairo": 100,
+        "Alexandria": 60,
+        "Giza": 110,
+        "Fayoum": 140,
+        "Behira": 0,
+        "Suez": 190
+    },
+    "Cairo": {
+        "Cairo": 0,
+        "Alexandria": 120,
+        "Giza": 40,
+        "Fayoum": 90,
+        "Behira": 100,
+        "Suez": 130
+    },
+    "cairo": {
+        "Cairo": 0,
+        "Alexandria": 120,
+        "Giza": 40,
+        "Fayoum": 90,
+        "Behira": 100,
+        "Suez": 130
+    },
+    "fayoum": {
+        "Cairo": 90,
+        "Alexandria": 150,
+        "Giza": 70,
+        "Fayoum": 0,
+        "Behira": 140,
+        "Suez": 200
+    }
+}

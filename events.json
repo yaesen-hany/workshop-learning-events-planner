@@ -1,0 +1,134 @@
+[
+    {
+        "id": 101,
+        "name": "Python Programming Bootcamp",
+        "trainer": "Ahmed Nabil",
+        "location": "Cairo",
+        "price": 1200,
+        "duration": 40,
+        "rating": 4.7,
+        "available_seats": 25,
+        "category": "Programming"
+    },
+    {
+        "id": 102,
+        "name": "Web Development with JavaScript",
+        "trainer": "Sara Adel",
+        "location": "Giza",
+        "price": 950,
+        "duration": 30,
+        "rating": 4.5,
+        "available_seats": 20,
+        "category": "Programming"
+    },
+    {
+        "id": 103,
+        "name": "Machine Learning Fundamentals",
+        "trainer": "Omar Hassan",
+        "location": "Alexandria",
+        "price": 1500,
+        "duration": 35,
+        "rating": 4.8,
+        "available_seats": 18,
+        "category": "AI"
+    },
+    {
+        "id": 104,
+        "name": "Deep Learning with Python",
+        "trainer": "Mona Fathy",
+        "location": "Cairo",
+        "price": 1800,
+        "duration": 45,
+        "rating": 4.6,
+        "available_seats": 15,
+        "category": "AI"
+    },
+    {
+        "id": 105,
+        "name": "Data Analysis with Excel",
+        "trainer": "Khaled Samir",
+        "location": "Giza",
+        "price": 700,
+        "duration": 20,
+        "rating": 4.2,
+        "available_seats": 30,
+        "category": "Data"
+    },
+    {
+        "id": 106,
+        "name": "Data Visualization with Power BI",
+        "trainer": "Nourhan Ali",
+        "location": "Fayoum",
+        "price": 850,
+        "duration": 25,
+        "rating": 4.4,
+        "available_seats": 22,
+        "category": "Data"
+    },
+    {
+        "id": 107,
+        "name": "Startup Fundamentals Workshop",
+        "trainer": "Tarek Ezz",
+        "location": "Cairo",
+        "price": 500,
+        "duration": 15,
+        "rating": 4.0,
+        "available_seats": 40,
+        "category": "Entrepreneurship"
+    },
+    {
+        "id": 108,
+        "name": "Business Model Canvas Bootcamp",
+        "trainer": "Rania Kamal",
+        "location": "Behira",
+        "price": 600,
+        "duration": 18,
+        "rating": 4.3,
+        "available_seats": 35,
+        "category": "Entrepreneurship"
+    },
+    {
+        "id": 109,
+        "name": "UI UX Design Essentials",
+        "trainer": "Yara Mostafa",
+        "location": "Alexandria",
+        "price": 900,
+        "duration": 28,
+        "rating": 4.6,
+        "available_seats": 20,
+        "category": "Design"
+    },
+    {
+        "id": 110,
+        "name": "Graphic Design with Figma",
+        "trainer": "Hany Adel",
+        "location": "Cairo",
+        "price": 750,
+        "duration": 22,
+        "rating": 4.1,
+        "available_seats": 25,
+        "category": "Design"
+    },
+    {
+        "id": 111,
+        "name": "Communication Skills Workshop",
+        "trainer": "Dina Said",
+        "location": "Giza",
+        "price": 400,
+        "duration": 12,
+        "rating": 4.3,
+        "available_seats": 45,
+        "category": "Soft Skills"
+    },
+    {
+        "id": 112,
+        "name": "Time Management Masterclass",
+        "trainer": "Sherif Louis",
+        "location": "Fayoum",
+        "price": 350,
+        "duration": 10,
+        "rating": 4.0,
+        "available_seats": 50,
+        "category": "Soft Skills"
+    }
+]
